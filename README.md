@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jella Bharath Kumar | Data Scientist & Cybersecurity Practitioner
+# 👋 Hi, I'm Jella Bharath Kumar | Java Developer enthusiast and AI/ML practitioner 
 
 ---
 
