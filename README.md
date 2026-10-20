@@ -15,7 +15,7 @@
 ---
 
 ## ⚡ Technical Metrics & Focus Areas
-* 🎯 **Specialization:** Third-Year Computer Science Engineering student focused on Data Science.
+* 🎯 **Specialization:** Computer Science Engineering student focused on Data Science.
 * 💻 **Competitive Security:** Dedicated cybersecurity practitioner ranking in the top tier on TryHackMe.
 * 🛠️ **Applied Engineering:** Developed machine learning phishing detectors and automated threat honeypots.
 
