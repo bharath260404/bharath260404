@@ -7,6 +7,7 @@
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
 | **Languages** | Java (OOP/DSA Execution), Python (Automation & Analytics) |
+| **backend** | Spring, Springboot, Maven, Servlet, JSP, JDBC, Spring AI |
 | **AI & Data Science** | Core Machine Learning, Computer Vision, YOLOv8 Pipeline Integration |
 | **Security Engineering** | Penetration Testing, Red Teaming, Vulnerability Analysis |
 | **Tools & Platforms** | Git/GitHub, Kali Linux, Metasploit, Nmap, Burp Suite |
