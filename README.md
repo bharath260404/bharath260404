@@ -1,23 +1,69 @@
-# 👋 Hi, I'm Jella Bharath Kumar | Java Developer enthusiast and AI/ML practitioner 
+
+<div align="center">
+
+# BHARATH
+
+### AI ENGINEERING · JAVA · FULL STACK
+
+Building intelligent systems and practical software.
+
+[LinkedIn](https://www.linkedin.com/in/bharath-kumar-ab2966330/?isSelfProfile=true) · [Leetcode](https://leetcode.com/u/bharathkumar2604/) · [Email](bharathjella15@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 Core Technical Stack
+## `01 / ABOUT ME`
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | Java (OOP/DSA Execution), Python (Automation & Analytics) |
-| **backend** | Spring, Springboot, Maven, Servlet, JSP, JDBC, Spring AI |
-| **AI & Data Science** | Core Machine Learning, Computer Vision, YOLOv8 Pipeline Integration |
-| **Security Engineering** | Penetration Testing, Red Teaming, Vulnerability Analysis |
-| **Tools & Platforms** | Git/GitHub, Kali Linux, Metasploit, Nmap, Burp Suite |
+I'm a software developer focused on building practical applications
+across AI engineering, backend development, and full-stack systems.
+
+- Building: AI-powered applications and useful software products
+- Engineering: Java, Python, APIs, databases, and web applications
+- Exploring: Machine learning, LLM systems, and application security
+- Improving: System design, software engineering, and problem solving
+
+## `02 / ENGINEERING DOMAINS`
+
+| Domain | Technologies |
+|---|---|
+| AI Engineering | Python, LLMs, RAG, embeddings |
+| Machine Learning | NumPy, Pandas, scikit-learn, OpenCV |
+| Backend | Java, JDBC, SQL, REST APIs, maven, MVC, Hybernet |
+| Full Stack | HTML, CSS, JavaScript, React |
+| Databases | MySQL, PostgreSQL |
+| Security | Linux, networking, OWASP fundamentals |
+| Tools | Git, GitHub, VS Code, Docker |
+
+## `03 / SELECTED PROJECTS`
+
+### AI & Machine Learning
+Projects demonstrating intelligent applications, data processing,
+model evaluation, and practical AI integration.
+
+### Java Engineering
+Projects demonstrating OOP, clean code, database connectivity,
+CRUD operations, and backend fundamentals.
+
+### Full-Stack Systems
+End-to-end applications combining frontend interfaces,
+backend services, databases, and authentication.
+
+### Cybersecurity Labs
+Authorized practice projects focused on secure coding,
+web security fundamentals, and defensive tooling.
+
+## `04 / CURRENT FOCUS`
+
+- Building complete, deployable software projects
+- Strengthening Java and backend engineering
+- Developing reliable AI-powered applications
+- Learning secure software development practices
 
 ---
 
-## ⚡ Technical Metrics & Focus Areas
-* 🎯 **Specialization:** Computer Science Engineering student focused on Data Science.
-* 💻 **Competitive Security:** Dedicated cybersecurity practitioner ranking in the top tier on TryHackMe.
-* 🛠️ **Applied Engineering:** Developed machine learning phishing detectors and automated threat honeypots.
+<div align="center">
 
----
+**Build · Learn · Ship · Improve**
 
+</div>
