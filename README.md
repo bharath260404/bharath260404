@@ -27,6 +27,12 @@ across AI engineering, backend development, and full-stack systems.
 - Exploring: Machine learning, LLM systems, and application security
 - Improving: System design, software engineering, and problem solving
 
+  <h2 align="center">⚡ TECH STACK</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,spring,mysql,postgres,git,github,docker,linux&perline=7" />
+</p>
+
 ## `02 / ENGINEERING DOMAINS`
 
 | Domain | Technologies |
