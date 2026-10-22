@@ -34,15 +34,63 @@ across AI engineering, backend development, and full-stack systems.
 </p>
 
 
+
 ## 🚀 FEATURED PROJECTS
 
 <div align="center">
+
+### 🛡️ 01 — PhishGuard
+**Advanced Phishing Detector | Cybersecurity**
+
+<a href="https://github.com/bharath260404/PhishGaurd-Phishing-Detector-Advanced">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bharath260404&repo=PhishGaurd-Phishing-Detector-Advanced&theme=tokyonight&hide_border=true" />
+</a>
+
+[Explore Repository →](https://github.com/bharath260404/PhishGaurd-Phishing-Detector-Advanced)
+
+---
+
+### 💳 02 — TrustPay
+**Backend Engineering | FinTech**
+
+<a href="https://github.com/bharath260404/trustpay-backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bharath260404&repo=trustpay-backend&theme=tokyonight&hide_border=true" />
+</a>
+
+[Explore Repository →](https://github.com/bharath260404/trustpay-backend)
+
+---
+
+### 🧠 03 — CogniShield
+**Artificial Intelligence | Intelligent Security**
+
+<a href="https://github.com/bharath260404/CogniShield">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bharath260404&repo=CogniShield&theme=tokyonight&hide_border=true" />
+</a>
+
+[Explore Repository →](https://github.com/bharath260404/CogniShield)
+
+---
+
+### ☕ 04 — Java Backend Mini Projects
+**Java | OOP | Backend Development**
 
 <a href="https://github.com/bharath260404/java-backend-mini-projects">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bharath260404&repo=java-backend-mini-projects&theme=tokyonight&hide_border=true" />
 </a>
 
+[Explore Repository →](https://github.com/bharath260404/java-backend-mini-projects)
+
 </div>
+
+---
+
+<div align="center">
+
+**Building intelligent systems. Engineering reliable software. Securing digital experiences.**
+
+</div>
+
 
 ### 🛡️ PhishGuard
 **Cybersecurity · Phishing Detection**
