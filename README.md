@@ -92,40 +92,6 @@ across AI engineering, backend development, and full-stack systems.
 </div>
 
 
-### 🛡️ PhishGuard
-**Cybersecurity · Phishing Detection**
-
-A security-focused project aimed at identifying and analyzing potential phishing threats.
-
-- Focus: Phishing detection and safer digital interactions
-- Domain: Cybersecurity
-- Repository: [View Project](YOUR_PHISHGUARD_REPOSITORY_URL)
-
-### 🧠 CogniShield
-**Artificial Intelligence · Intelligent Security**
-
-An AI-focused project combining intelligent analysis with a security-oriented use case.
-
-- Focus: AI-assisted analysis and threat awareness
-- Domain: AI / Security
-- Repository: [View Project](YOUR_COGNISHIELD_REPOSITORY_URL)
-
-### ☕ Java Backend Mini Projects
-**Java · OOP · Backend Development**
-
-A collection of Java projects demonstrating programming fundamentals and practical backend development.
-
-- Focus: Object-oriented programming, CRUD operations, and backend fundamentals
-- Repository: [View Project](https://github.com/bharath260404/java-backend-mini-projects)
-
----
-
-<div align="center">
-
-**Building intelligent systems. Engineering reliable software. Learning secure development.**
-
-</div>
-
 
 ## `02 / ENGINEERING DOMAINS`
 
