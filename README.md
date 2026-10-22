@@ -5,21 +5,30 @@
 
 <div align="center">
 
-<!-- HERO BANNER: WHITE NAME + MIDNIGHT BLUE EMBLEM -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:030712,45:111827,75:172554,100:0f172a&text=BHARATH&fontColor=FFFFFF&fontSize=76&fontAlignY=44&animation=fadeIn&stroke=FACC15&strokeWidth=1" width="100%" alt="Bharath developer banner"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0d1117,50:0d1117,100:0d1117&text=BHARATH&fontColor=FFFFFF&fontSize=76&fontAlignY=44&animation=fadeIn&stroke=FACC15&strokeWidth=1" width="100%" alt="Bharath developer banner"/>
+<!-- SOCIAL LINKS DIRECTLY BELOW NAME -->
 
-<br/>
+<a href="https://www.linkedin.com/in/bharath-kumar-ab2966330/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/bharathkumar2604/">
+  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://github.com/bharath260404">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:bharathjella15@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<!-- ANIMATED DEVELOPER IDENTITY -->
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=700&color=06B6D4&center=true&vCenter=true&width=800&lines=Java+%26+Backend+Engineering;AI-Powered+Application+Development;Machine+Learning+%26+Intelligent+Systems;Full-Stack+Development;Cybersecurity+%26+Secure+Coding" alt="Animated developer roles"/>
 
 <br/>
 
-<strong>JAVA ENGINEERING · AI · FULL STACK · CYBERSECURITY</strong>
-
-<br/><br/>
+**JAVA ENGINEERING · AI · FULL STACK · CYBERSECURITY**
 
 <i>Build with purpose. Engineer with precision. Keep learning.</i>
 
@@ -47,29 +56,23 @@ I'm a software developer focused on building practical applications across Java 
   <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,postman&theme=dark" alt="Java and backend stack"/>
 </p>
 
-<p align="center">
-  <strong>Java · OOP · Collections · JDBC · SQL · Maven · MVC · Hibernate</strong>
-</p>
+**Core areas:** Java · OOP · Collections · JDBC · SQL · Maven · MVC · Hibernate
 
 ### 🤖 ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch&theme=dark" alt="AI and ML stack"/>
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch&theme=dark" alt="AI and machine learning stack"/>
 </p>
 
-<p align="center">
-  <strong>Python · LLMs · RAG · Embeddings · Model Evaluation</strong>
-</p>
+**Core areas:** Python · LLMs · RAG · Embeddings · Model evaluation
 
 ### 🌐 FULL-STACK DEVELOPMENT
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind&theme=dark" alt="Full-stack stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind&theme=dark" alt="Full-stack development stack"/>
 </p>
 
-<p align="center">
-  <strong>HTML · CSS · JavaScript · React · REST APIs</strong>
-</p>
+**Core areas:** HTML · CSS · JavaScript · React · REST APIs
 
 ### ⚙️ TOOLS, SYSTEMS & SECURITY
 
@@ -77,9 +80,7 @@ I'm a software developer focused on building practical applications across Java 
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode&theme=dark" alt="Developer tools"/>
 </p>
 
-<p align="center">
-  <strong>Git · GitHub · Linux · Networking · Secure Coding</strong>
-</p>
+**Core areas:** Git · GitHub · Linux · Networking · Secure coding
 
 ---
 
@@ -92,7 +93,7 @@ I'm a software developer focused on building practical applications across Java 
 **Advanced Phishing Detector · Cybersecurity**
 
 <a href="https://github.com/bharath260404/PhishGaurd-Phishing-Detector-Advanced">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bharath260404&repo=PhishGaurd-Phishing-Detector-Advanced&theme=tokyonight&hide_border=true" width="420" alt="PhishGuard repository"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bharath260404&repo=PhishGaurd-Phishing-Detector-Advanced&theme=tokyonight&hide_border=true" width="420" alt="PhishGuard repository card"/>
 </a>
 
 [EXPLORE PHISHGUARD →](https://github.com/bharath260404/PhishGaurd-Phishing-Detector-Advanced)
@@ -104,7 +105,7 @@ I'm a software developer focused on building practical applications across Java 
 **FinTech · Backend Engineering**
 
 <a href="https://github.com/bharath260404/trustpay-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bharath260404&repo=trustpay-backend&theme=tokyonight&hide_border=true" width="420" alt="TrustPay repository"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bharath260404&repo=trustpay-backend&theme=tokyonight&hide_border=true" width="420" alt="TrustPay repository card"/>
 </a>
 
 [EXPLORE TRUSTPAY →](https://github.com/bharath260404/trustpay-backend)
@@ -116,7 +117,7 @@ I'm a software developer focused on building practical applications across Java 
 **Artificial Intelligence · Intelligent Security**
 
 <a href="https://github.com/bharath260404/CogniShield">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bharath260404&repo=CogniShield&theme=tokyonight&hide_border=true" width="420" alt="CogniShield repository"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bharath260404&repo=CogniShield&theme=tokyonight&hide_border=true" width="420" alt="CogniShield repository card"/>
 </a>
 
 [EXPLORE COGNISHIELD →](https://github.com/bharath260404/CogniShield)
@@ -128,7 +129,7 @@ I'm a software developer focused on building practical applications across Java 
 **Java · OOP · Database Programming**
 
 <a href="https://github.com/bharath260404/java-backend-mini-projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bharath260404&repo=java-backend-mini-projects&theme=tokyonight&hide_border=true" width="420" alt="Java backend projects"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bharath260404&repo=java-backend-mini-projects&theme=tokyonight&hide_border=true" width="420" alt="Java backend repository card"/>
 </a>
 
 [EXPLORE JAVA PROJECTS →](https://github.com/bharath260404/java-backend-mini-projects)
@@ -164,13 +165,15 @@ I'm a software developer focused on building practical applications across Java 
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PRIMARY_FOCUS-JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java primary focus"/>
+<a href="https://github.com/bharath260404?tab=repositories">
+  <img src="https://img.shields.io/badge/PRIMARY%20FOCUS-JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java primary focus"/>
+</a>
 
 <br/><br/>
 
 ### 📊 ACCOUNT STATISTICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=bharath260404&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" width="75%" alt="GitHub account statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bharath260404&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" width="75%" alt="GitHub statistics"/>
 
 <br/><br/>
 
@@ -182,11 +185,11 @@ I'm a software developer focused on building practical applications across Java 
 
 ### 🔥 CONTRIBUTION STREAK
 
-<img src="https://streak-stats.demolab.com?user=bharath260404&theme=tokyonight&hide_border=true&border_radius=10" width="75%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=bharath260404&theme=tokyonight&hide_border=true&border_radius=10" width="75%" alt="GitHub streak statistics"/>
 
 </div>
 
-<sub>Analytics are provided by external services. Data may be cached or temporarily unavailable.</sub>
+> Statistics are provided by external services. They can be cached, delayed or temporarily unavailable.
 
 ---
 
