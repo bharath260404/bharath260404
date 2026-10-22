@@ -1,6 +1,27 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050816,50:312e81,100:06b6d4&text=BHARATH&fontColor=ffffff&fontSize=70&fontAlignY=45&animation=fadeIn&stroke=06b6d4&strokeWidth=1" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=06B6D4&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Engineer;Java+%26+Backend+Developer;Full-Stack+Application+Builder;Cybersecurity+Enthusiast" alt="Developer roles" />
+
+<br/>
+
+<a href="https://github.com/bharath260404">
+<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/bharath260404?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-0891b2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Building intelligent systems. Engineering reliable software. Exploring security.**
+
+</div>
+
+<div align="center">
+
 # BHARATH
 
 <div align="center">
