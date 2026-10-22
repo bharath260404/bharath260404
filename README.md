@@ -3,6 +3,10 @@
 
 # BHARATH
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+ML+Enthusiast;Java+%26+Backend+Developer;Full-Stack+Application+Builder;Exploring+Cybersecurity" alt="Typing SVG" />
+</div>
+
 ### AI ENGINEERING · JAVA · FULL STACK
 
 Building intelligent systems and practical software.
